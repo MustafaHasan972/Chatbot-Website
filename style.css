@@ -47,3 +47,22 @@ body {
   background: #fff;
   border-radius: 50%;
 }
+
+.header-info .logo-text {
+  color: #fff;
+  font-size: 1.31rem;
+  font-weight: 600;
+}
+
+.chat-header #close-chatbot {
+  color: #fff;
+  border: none;
+  height: 40px;
+  width: 40px;
+  font-size: 1.9rem;
+  margin-right: -19px;
+  padding-top: 2px;
+  cursor: pointer;
+  border-radius: 50%;
+  background: #3d39ac;
+}
